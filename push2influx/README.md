@@ -7,6 +7,8 @@ and pushes the information to an InfluxDB instance of your choice.
 After configuring the script, schedule it in a cron job or other scheduler on
 your computer.
 
+!["Overlay graph. Official + citizen science sensors"](https://raw.githubusercontent.com/luftdata/utilities/master/push2influx/PM10.jpg)
+
 Finding the correct official sensor
 -----------------------------------
 
